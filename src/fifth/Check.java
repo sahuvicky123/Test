@@ -6,6 +6,7 @@ public class Check {
 		// TODO Auto-generated method stub
 		System.out.println("welcome!");
 		System.out.print(false);
+		System.out.println("branch code");
 
 	}
 
